@@ -1,4 +1,4 @@
-#Activity 5
+#Activity 4
 #JUSTINE IDOS -CPE 1
 def assign_grade():
     score = int(input("Enter the student's score: "))
